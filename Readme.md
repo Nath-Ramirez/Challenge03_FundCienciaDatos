@@ -1,3 +1,14 @@
+# Taller Práctico 03 — Centauros
+
+**Curso:** Fundamentos en Ciencia de Datos — Maestría en Ciencia de Datos y Analítica, EAFIT
+
+**Integrantes del equipo:**
+
+| Nombre completo              | Cédula         |
+| ---------------              | -------------- |
+| Delvin José Rodriguez Jimenez| 1236422        |
+| John Esteban Úsuga Duarte    | 1038926380     |
+| Nathaly Ramirez Henao        | 1025641821     |
 # Inteligencia Geo-Temporal y de Redes — TechLogistics S.A.
 
 Análisis multidimensional desarrollado en Python (Jupyter Notebook) para el diagnóstico de series de tiempo, señales, redes y geoespacialidad de los activos críticos de **TechLogistics S.A.** (Cadena de frio y red eléctrica). Tiene pruebas de estacionariedad, filtrado de señales (FFT/Butterworth), análisis de grafos con NetworkX, visualización geoespacial con Plotly y modelado predictivo (Granger, ARIMAX) bajo la metodología **CRISP-DM**.
